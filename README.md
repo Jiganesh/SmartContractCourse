@@ -11,13 +11,13 @@ Welcome to Blockchain
 
 Learn about : 
 
-Decentralized
-Transperency and Flexibility
-Speed and Efficiency
-Security and Immutability
-Removal of counterparty risk
-Trust minimized Agreements
-DAO's - Decentralized Autonomous Organizations
+- Decentralized
+- Transperency and Flexibility
+- Speed and Efficiency
+- Security and Immutability
+- Removal of counterparty risk
+- Trust minimized Agreements
+- DAO's - Decentralized Autonomous Organizations
 
 
 
