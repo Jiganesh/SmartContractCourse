@@ -3,7 +3,7 @@ pragma solidity >=0.6.0 <0.9.0;
 
 import "contracts/SimpleStorage.sol";
 
-contract StorageFactory{
+contract StorageFactory is SimpleStorage{
 
     SimpleStorage [] public simpleStorageArray ;
 
